@@ -1,0 +1,5317 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "livello": 0,
+            "id": "angular-cli"
+        },
+        {
+            "livello": 1,
+            "id": "@angular-cli/ast-tools"
+        },
+        {
+            "livello": 1,
+            "id": "@angular-cli/base-href-webpack"
+        },
+        {
+            "livello": 1,
+            "id": "@angular/compiler"
+        },
+        {
+            "livello": 1,
+            "id": "@angular/compiler-cli"
+        },
+        {
+            "livello": 1,
+            "id": "@angular/core"
+        },
+        {
+            "livello": 1,
+            "id": "@ngtools/json-schema"
+        },
+        {
+            "livello": 1,
+            "id": "@ngtools/webpack"
+        },
+        {
+            "livello": 1,
+            "id": "async"
+        },
+        {
+            "livello": 1,
+            "id": "autoprefixer"
+        },
+        {
+            "livello": 1,
+            "id": "chalk"
+        },
+        {
+            "livello": 1,
+            "id": "common-tags"
+        },
+        {
+            "livello": 1,
+            "id": "css-loader"
+        },
+        {
+            "livello": 1,
+            "id": "cssnano"
+        },
+        {
+            "livello": 1,
+            "id": "debug"
+        },
+        {
+            "livello": 1,
+            "id": "denodeify"
+        },
+        {
+            "livello": 1,
+            "id": "diff"
+        },
+        {
+            "livello": 1,
+            "id": "ember-cli-normalize-entity-name"
+        },
+        {
+            "livello": 1,
+            "id": "ember-cli-string-utils"
+        },
+        {
+            "livello": 1,
+            "id": "exists-sync"
+        },
+        {
+            "livello": 1,
+            "id": "extract-text-webpack-plugin"
+        },
+        {
+            "livello": 1,
+            "id": "file-loader"
+        },
+        {
+            "livello": 1,
+            "id": "findup"
+        },
+        {
+            "livello": 1,
+            "id": "fs-extra"
+        },
+        {
+            "livello": 1,
+            "id": "get-caller-file"
+        },
+        {
+            "livello": 1,
+            "id": "glob"
+        },
+        {
+            "livello": 1,
+            "id": "html-webpack-plugin"
+        },
+        {
+            "livello": 1,
+            "id": "inflection"
+        },
+        {
+            "livello": 1,
+            "id": "inquirer"
+        },
+        {
+            "livello": 1,
+            "id": "isbinaryfile"
+        },
+        {
+            "livello": 1,
+            "id": "json-loader"
+        },
+        {
+            "livello": 1,
+            "id": "karma-sourcemap-loader"
+        },
+        {
+            "livello": 1,
+            "id": "karma-webpack"
+        },
+        {
+            "livello": 1,
+            "id": "less"
+        },
+        {
+            "livello": 1,
+            "id": "less-loader"
+        },
+        {
+            "livello": 1,
+            "id": "lodash"
+        },
+        {
+            "livello": 1,
+            "id": "minimatch"
+        },
+        {
+            "livello": 1,
+            "id": "node-modules-path"
+        },
+        {
+            "livello": 1,
+            "id": "node-sass"
+        },
+        {
+            "livello": 1,
+            "id": "nopt"
+        },
+        {
+            "livello": 1,
+            "id": "opn"
+        },
+        {
+            "livello": 1,
+            "id": "ora"
+        },
+        {
+            "livello": 1,
+            "id": "portfinder"
+        },
+        {
+            "livello": 1,
+            "id": "postcss-loader"
+        },
+        {
+            "livello": 1,
+            "id": "raw-loader"
+        },
+        {
+            "livello": 1,
+            "id": "remap-istanbul"
+        },
+        {
+            "livello": 1,
+            "id": "resolve"
+        },
+        {
+            "livello": 1,
+            "id": "rimraf"
+        },
+        {
+            "livello": 1,
+            "id": "rsvp"
+        },
+        {
+            "livello": 1,
+            "id": "sass-loader"
+        },
+        {
+            "livello": 1,
+            "id": "script-loader"
+        },
+        {
+            "livello": 1,
+            "id": "semver"
+        },
+        {
+            "livello": 1,
+            "id": "silent-error"
+        },
+        {
+            "livello": 1,
+            "id": "source-map-loader"
+        },
+        {
+            "livello": 1,
+            "id": "sourcemap-istanbul-instrumenter-loader"
+        },
+        {
+            "livello": 1,
+            "id": "style-loader"
+        },
+        {
+            "livello": 1,
+            "id": "stylus"
+        },
+        {
+            "livello": 1,
+            "id": "stylus-loader"
+        },
+        {
+            "livello": 1,
+            "id": "temp"
+        },
+        {
+            "livello": 1,
+            "id": "through"
+        },
+        {
+            "livello": 1,
+            "id": "typescript"
+        },
+        {
+            "livello": 1,
+            "id": "url-loader"
+        },
+        {
+            "livello": 1,
+            "id": "walk-sync"
+        },
+        {
+            "livello": 1,
+            "id": "webpack"
+        },
+        {
+            "livello": 1,
+            "id": "webpack-dev-server"
+        },
+        {
+            "livello": 1,
+            "id": "webpack-merge"
+        },
+        {
+            "livello": 1,
+            "id": "webpack-sources"
+        },
+        {
+            "livello": 1,
+            "id": "zone.js"
+        },
+        {
+            "livello": 2,
+            "id": "@angular/tsc-wrapped"
+        },
+        {
+            "livello": 2,
+            "id": "rxjs"
+        },
+        {
+            "livello": 2,
+            "id": "tslib"
+        },
+        {
+            "livello": 2,
+            "id": "yargs"
+        },
+        {
+            "livello": 2,
+            "id": "chokidar"
+        },
+        {
+            "livello": 2,
+            "id": "@babel/core"
+        },
+        {
+            "livello": 2,
+            "id": "reflect-metadata"
+        },
+        {
+            "livello": 2,
+            "id": "convert-source-map"
+        },
+        {
+            "livello": 2,
+            "id": "@jridgewell/sourcemap-codec"
+        },
+        {
+            "livello": 2,
+            "id": "browserslist"
+        },
+        {
+            "livello": 2,
+            "id": "caniuse-lite"
+        },
+        {
+            "livello": 2,
+            "id": "fraction.js"
+        },
+        {
+            "livello": 2,
+            "id": "normalize-range"
+        },
+        {
+            "livello": 2,
+            "id": "picocolors"
+        },
+        {
+            "livello": 2,
+            "id": "postcss-value-parser"
+        },
+        {
+            "livello": 2,
+            "id": "icss-utils"
+        },
+        {
+            "livello": 2,
+            "id": "postcss"
+        },
+        {
+            "livello": 2,
+            "id": "postcss-modules-extract-imports"
+        },
+        {
+            "livello": 2,
+            "id": "postcss-modules-local-by-default"
+        },
+        {
+            "livello": 2,
+            "id": "postcss-modules-scope"
+        },
+        {
+            "livello": 2,
+            "id": "postcss-modules-values"
+        },
+        {
+            "livello": 2,
+            "id": "lilconfig"
+        },
+        {
+            "livello": 2,
+            "id": "cssnano-preset-default"
+        },
+        {
+            "livello": 2,
+            "id": "ms"
+        },
+        {
+            "livello": 2,
+            "id": "loader-utils"
+        },
+        {
+            "livello": 2,
+            "id": "schema-utils"
+        },
+        {
+            "livello": 2,
+            "id": "colors"
+        },
+        {
+            "livello": 2,
+            "id": "commander"
+        },
+        {
+            "livello": 2,
+            "id": "jsonfile"
+        },
+        {
+            "livello": 2,
+            "id": "graceful-fs"
+        },
+        {
+            "livello": 2,
+            "id": "universalify"
+        },
+        {
+            "livello": 2,
+            "id": "minipass"
+        },
+        {
+            "livello": 2,
+            "id": "jackspeak"
+        },
+        {
+            "livello": 2,
+            "id": "path-scurry"
+        },
+        {
+            "livello": 2,
+            "id": "foreground-child"
+        },
+        {
+            "livello": 2,
+            "id": "package-json-from-dist"
+        },
+        {
+            "livello": 2,
+            "id": "@types/html-minifier-terser"
+        },
+        {
+            "livello": 2,
+            "id": "html-minifier-terser"
+        },
+        {
+            "livello": 2,
+            "id": "pretty-error"
+        },
+        {
+            "livello": 2,
+            "id": "tapable"
+        },
+        {
+            "livello": 2,
+            "id": "@inquirer/core"
+        },
+        {
+            "livello": 2,
+            "id": "@inquirer/prompts"
+        },
+        {
+            "livello": 2,
+            "id": "@inquirer/type"
+        },
+        {
+            "livello": 2,
+            "id": "ansi-escapes"
+        },
+        {
+            "livello": 2,
+            "id": "mute-stream"
+        },
+        {
+            "livello": 2,
+            "id": "run-async"
+        },
+        {
+            "livello": 2,
+            "id": "copy-anything"
+        },
+        {
+            "livello": 2,
+            "id": "parse-node-version"
+        },
+        {
+            "livello": 2,
+            "id": "errno"
+        },
+        {
+            "livello": 2,
+            "id": "image-size"
+        },
+        {
+            "livello": 2,
+            "id": "make-dir"
+        },
+        {
+            "livello": 2,
+            "id": "mime"
+        },
+        {
+            "livello": 2,
+            "id": "needle"
+        },
+        {
+            "livello": 2,
+            "id": "source-map"
+        },
+        {
+            "livello": 2,
+            "id": "brace-expansion"
+        },
+        {
+            "livello": 2,
+            "id": "nan"
+        },
+        {
+            "livello": 2,
+            "id": "gaze"
+        },
+        {
+            "livello": 2,
+            "id": "meow"
+        },
+        {
+            "livello": 2,
+            "id": "node-gyp"
+        },
+        {
+            "livello": 2,
+            "id": "get-stdin"
+        },
+        {
+            "livello": 2,
+            "id": "sass-graph"
+        },
+        {
+            "livello": 2,
+            "id": "cross-spawn"
+        },
+        {
+            "livello": 2,
+            "id": "async-foreach"
+        },
+        {
+            "livello": 2,
+            "id": "stdout-stream"
+        },
+        {
+            "livello": 2,
+            "id": "true-case-path"
+        },
+        {
+            "livello": 2,
+            "id": "make-fetch-happen"
+        },
+        {
+            "livello": 2,
+            "id": "abbrev"
+        },
+        {
+            "livello": 2,
+            "id": "is-wsl"
+        },
+        {
+            "livello": 2,
+            "id": "cli-cursor"
+        },
+        {
+            "livello": 2,
+            "id": "cli-spinners"
+        },
+        {
+            "livello": 2,
+            "id": "is-interactive"
+        },
+        {
+            "livello": 2,
+            "id": "is-unicode-supported"
+        },
+        {
+            "livello": 2,
+            "id": "log-symbols"
+        },
+        {
+            "livello": 2,
+            "id": "stdin-discarder"
+        },
+        {
+            "livello": 2,
+            "id": "string-width"
+        },
+        {
+            "livello": 2,
+            "id": "strip-ansi"
+        },
+        {
+            "livello": 2,
+            "id": "mkdirp"
+        },
+        {
+            "livello": 2,
+            "id": "cosmiconfig"
+        },
+        {
+            "livello": 2,
+            "id": "jiti"
+        },
+        {
+            "livello": 2,
+            "id": "istanbul"
+        },
+        {
+            "livello": 2,
+            "id": "plugin-error"
+        },
+        {
+            "livello": 2,
+            "id": "through2"
+        },
+        {
+            "livello": 2,
+            "id": "is-core-module"
+        },
+        {
+            "livello": 2,
+            "id": "path-parse"
+        },
+        {
+            "livello": 2,
+            "id": "supports-preserve-symlinks-flag"
+        },
+        {
+            "livello": 2,
+            "id": "neo-async"
+        },
+        {
+            "livello": 2,
+            "id": "iconv-lite"
+        },
+        {
+            "livello": 2,
+            "id": "source-map-js"
+        },
+        {
+            "livello": 2,
+            "id": "object-assign"
+        },
+        {
+            "livello": 2,
+            "id": "@adobe/css-tools"
+        },
+        {
+            "livello": 2,
+            "id": "sax"
+        },
+        {
+            "livello": 2,
+            "id": "fast-glob"
+        },
+        {
+            "livello": 2,
+            "id": "normalize-path"
+        },
+        {
+            "livello": 2,
+            "id": "mime-types"
+        },
+        {
+            "livello": 2,
+            "id": "@types/minimatch"
+        },
+        {
+            "livello": 2,
+            "id": "ensure-posix-path"
+        },
+        {
+            "livello": 2,
+            "id": "matcher-collection"
+        },
+        {
+            "livello": 2,
+            "id": "@types/eslint-scope"
+        },
+        {
+            "livello": 2,
+            "id": "@types/estree"
+        },
+        {
+            "livello": 2,
+            "id": "@webassemblyjs/ast"
+        },
+        {
+            "livello": 2,
+            "id": "@webassemblyjs/wasm-edit"
+        },
+        {
+            "livello": 2,
+            "id": "@webassemblyjs/wasm-parser"
+        },
+        {
+            "livello": 2,
+            "id": "acorn"
+        },
+        {
+            "livello": 2,
+            "id": "chrome-trace-event"
+        },
+        {
+            "livello": 2,
+            "id": "enhanced-resolve"
+        },
+        {
+            "livello": 2,
+            "id": "es-module-lexer"
+        },
+        {
+            "livello": 2,
+            "id": "eslint-scope"
+        },
+        {
+            "livello": 2,
+            "id": "events"
+        },
+        {
+            "livello": 2,
+            "id": "glob-to-regexp"
+        },
+        {
+            "livello": 2,
+            "id": "json-parse-even-better-errors"
+        },
+        {
+            "livello": 2,
+            "id": "loader-runner"
+        },
+        {
+            "livello": 2,
+            "id": "terser-webpack-plugin"
+        },
+        {
+            "livello": 2,
+            "id": "watchpack"
+        },
+        {
+            "livello": 2,
+            "id": "ws"
+        },
+        {
+            "livello": 2,
+            "id": "open"
+        },
+        {
+            "livello": 2,
+            "id": "spdy"
+        },
+        {
+            "livello": 2,
+            "id": "sockjs"
+        },
+        {
+            "livello": 2,
+            "id": "express"
+        },
+        {
+            "livello": 2,
+            "id": "p-retry"
+        },
+        {
+            "livello": 2,
+            "id": "@types/ws"
+        },
+        {
+            "livello": 2,
+            "id": "colorette"
+        },
+        {
+            "livello": 2,
+            "id": "ipaddr.js"
+        },
+        {
+            "livello": 2,
+            "id": "selfsigned"
+        },
+        {
+            "livello": 2,
+            "id": "compression"
+        },
+        {
+            "livello": 2,
+            "id": "serve-index"
+        },
+        {
+            "livello": 2,
+            "id": "@types/sockjs"
+        },
+        {
+            "livello": 2,
+            "id": "launch-editor"
+        },
+        {
+            "livello": 2,
+            "id": "@types/bonjour"
+        },
+        {
+            "livello": 2,
+            "id": "@types/express"
+        },
+        {
+            "livello": 2,
+            "id": "bonjour-service"
+        },
+        {
+            "livello": 2,
+            "id": "@types/serve-index"
+        },
+        {
+            "livello": 2,
+            "id": "@types/serve-static"
+        },
+        {
+            "livello": 2,
+            "id": "ansi-html-community"
+        },
+        {
+            "livello": 2,
+            "id": "http-proxy-middleware"
+        },
+        {
+            "livello": 2,
+            "id": "webpack-dev-middleware"
+        },
+        {
+            "livello": 2,
+            "id": "connect-history-api-fallback"
+        },
+        {
+            "livello": 2,
+            "id": "@types/connect-history-api-fallback"
+        },
+        {
+            "livello": 2,
+            "id": "flat"
+        },
+        {
+            "livello": 2,
+            "id": "wildcard"
+        },
+        {
+            "livello": 2,
+            "id": "clone-deep"
+        },
+        {
+            "livello": 3,
+            "id": "tsickle"
+        },
+        {
+            "livello": 3,
+            "id": "y18n"
+        },
+        {
+            "livello": 3,
+            "id": "cliui"
+        },
+        {
+            "livello": 3,
+            "id": "escalade"
+        },
+        {
+            "livello": 3,
+            "id": "yargs-parser"
+        },
+        {
+            "livello": 3,
+            "id": "require-directory"
+        },
+        {
+            "livello": 3,
+            "id": "readdirp"
+        },
+        {
+            "livello": 3,
+            "id": "json5"
+        },
+        {
+            "livello": 3,
+            "id": "gensync"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/types"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/parser"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/helpers"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/template"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/traverse"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/generator"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/code-frame"
+        },
+        {
+            "livello": 3,
+            "id": "@ampproject/remapping"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/helper-module-transforms"
+        },
+        {
+            "livello": 3,
+            "id": "@babel/helper-compilation-targets"
+        },
+        {
+            "livello": 3,
+            "id": "electron-to-chromium"
+        },
+        {
+            "livello": 3,
+            "id": "node-releases"
+        },
+        {
+            "livello": 3,
+            "id": "update-browserslist-db"
+        },
+        {
+            "livello": 3,
+            "id": "nanoid"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-selector-parser"
+        },
+        {
+            "livello": 3,
+            "id": "css-declaration-sorter"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-calc"
+        },
+        {
+            "livello": 3,
+            "id": "cssnano-utils"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-colormin"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-convert-values"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-discard-comments"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-discard-duplicates"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-discard-empty"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-discard-overridden"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-merge-longhand"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-merge-rules"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-minify-font-values"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-minify-gradients"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-minify-params"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-minify-selectors"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-charset"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-display-values"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-positions"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-repeat-style"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-string"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-timing-functions"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-unicode"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-url"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-normalize-whitespace"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-ordered-values"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-reduce-initial"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-reduce-transforms"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-svgo"
+        },
+        {
+            "livello": 3,
+            "id": "postcss-unique-selectors"
+        },
+        {
+            "livello": 3,
+            "id": "@types/json-schema"
+        },
+        {
+            "livello": 3,
+            "id": "ajv"
+        },
+        {
+            "livello": 3,
+            "id": "ajv-formats"
+        },
+        {
+            "livello": 3,
+            "id": "ajv-keywords"
+        },
+        {
+            "livello": 3,
+            "id": "@isaacs/cliui"
+        },
+        {
+            "livello": 3,
+            "id": "lru-cache"
+        },
+        {
+            "livello": 3,
+            "id": "signal-exit"
+        },
+        {
+            "livello": 3,
+            "id": "camel-case"
+        },
+        {
+            "livello": 3,
+            "id": "clean-css"
+        },
+        {
+            "livello": 3,
+            "id": "entities"
+        },
+        {
+            "livello": 3,
+            "id": "param-case"
+        },
+        {
+            "livello": 3,
+            "id": "relateurl"
+        },
+        {
+            "livello": 3,
+            "id": "terser"
+        },
+        {
+            "livello": 3,
+            "id": "renderkid"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/figures"
+        },
+        {
+            "livello": 3,
+            "id": "cli-width"
+        },
+        {
+            "livello": 3,
+            "id": "wrap-ansi"
+        },
+        {
+            "livello": 3,
+            "id": "yoctocolors-cjs"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/checkbox"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/confirm"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/editor"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/expand"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/input"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/number"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/password"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/rawlist"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/search"
+        },
+        {
+            "livello": 3,
+            "id": "@inquirer/select"
+        },
+        {
+            "livello": 3,
+            "id": "environment"
+        },
+        {
+            "livello": 3,
+            "id": "is-what"
+        },
+        {
+            "livello": 3,
+            "id": "prr"
+        },
+        {
+            "livello": 3,
+            "id": "queue"
+        },
+        {
+            "livello": 3,
+            "id": "balanced-match"
+        },
+        {
+            "livello": 3,
+            "id": "globule"
+        },
+        {
+            "livello": 3,
+            "id": "env-paths"
+        },
+        {
+            "livello": 3,
+            "id": "exponential-backoff"
+        },
+        {
+            "livello": 3,
+            "id": "proc-log"
+        },
+        {
+            "livello": 3,
+            "id": "tar"
+        },
+        {
+            "livello": 3,
+            "id": "which"
+        },
+        {
+            "livello": 3,
+            "id": "scss-tokenizer"
+        },
+        {
+            "livello": 3,
+            "id": "path-key"
+        },
+        {
+            "livello": 3,
+            "id": "shebang-command"
+        },
+        {
+            "livello": 3,
+            "id": "readable-stream"
+        },
+        {
+            "livello": 3,
+            "id": "@npmcli/agent"
+        },
+        {
+            "livello": 3,
+            "id": "cacache"
+        },
+        {
+            "livello": 3,
+            "id": "http-cache-semantics"
+        },
+        {
+            "livello": 3,
+            "id": "minipass-fetch"
+        },
+        {
+            "livello": 3,
+            "id": "minipass-flush"
+        },
+        {
+            "livello": 3,
+            "id": "minipass-pipeline"
+        },
+        {
+            "livello": 3,
+            "id": "negotiator"
+        },
+        {
+            "livello": 3,
+            "id": "promise-retry"
+        },
+        {
+            "livello": 3,
+            "id": "ssri"
+        },
+        {
+            "livello": 3,
+            "id": "is-inside-container"
+        },
+        {
+            "livello": 3,
+            "id": "restore-cursor"
+        },
+        {
+            "livello": 3,
+            "id": "yoctocolors"
+        },
+        {
+            "livello": 3,
+            "id": "emoji-regex"
+        },
+        {
+            "livello": 3,
+            "id": "get-east-asian-width"
+        },
+        {
+            "livello": 3,
+            "id": "ansi-regex"
+        },
+        {
+            "livello": 3,
+            "id": "import-fresh"
+        },
+        {
+            "livello": 3,
+            "id": "js-yaml"
+        },
+        {
+            "livello": 3,
+            "id": "parse-json"
+        },
+        {
+            "livello": 3,
+            "id": "once"
+        },
+        {
+            "livello": 3,
+            "id": "esprima"
+        },
+        {
+            "livello": 3,
+            "id": "wordwrap"
+        },
+        {
+            "livello": 3,
+            "id": "escodegen"
+        },
+        {
+            "livello": 3,
+            "id": "handlebars"
+        },
+        {
+            "livello": 3,
+            "id": "supports-color"
+        },
+        {
+            "livello": 3,
+            "id": "ansi-colors"
+        },
+        {
+            "livello": 3,
+            "id": "hasown"
+        },
+        {
+            "livello": 3,
+            "id": "safer-buffer"
+        },
+        {
+            "livello": 3,
+            "id": "@nodelib/fs.stat"
+        },
+        {
+            "livello": 3,
+            "id": "@nodelib/fs.walk"
+        },
+        {
+            "livello": 3,
+            "id": "glob-parent"
+        },
+        {
+            "livello": 3,
+            "id": "merge2"
+        },
+        {
+            "livello": 3,
+            "id": "micromatch"
+        },
+        {
+            "livello": 3,
+            "id": "mime-db"
+        },
+        {
+            "livello": 3,
+            "id": "@types/eslint"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/helper-numbers"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/helper-wasm-bytecode"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/helper-buffer"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/helper-wasm-section"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/wasm-gen"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/wasm-opt"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/wast-printer"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/helper-api-error"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/ieee754"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/leb128"
+        },
+        {
+            "livello": 3,
+            "id": "@webassemblyjs/utf8"
+        },
+        {
+            "livello": 3,
+            "id": "esrecurse"
+        },
+        {
+            "livello": 3,
+            "id": "estraverse"
+        },
+        {
+            "livello": 3,
+            "id": "@jridgewell/trace-mapping"
+        },
+        {
+            "livello": 3,
+            "id": "jest-worker"
+        },
+        {
+            "livello": 3,
+            "id": "serialize-javascript"
+        },
+        {
+            "livello": 3,
+            "id": "default-browser"
+        },
+        {
+            "livello": 3,
+            "id": "define-lazy-prop"
+        },
+        {
+            "livello": 3,
+            "id": "handle-thing"
+        },
+        {
+            "livello": 3,
+            "id": "http-deceiver"
+        },
+        {
+            "livello": 3,
+            "id": "select-hose"
+        },
+        {
+            "livello": 3,
+            "id": "spdy-transport"
+        },
+        {
+            "livello": 3,
+            "id": "faye-websocket"
+        },
+        {
+            "livello": 3,
+            "id": "uuid"
+        },
+        {
+            "livello": 3,
+            "id": "websocket-driver"
+        },
+        {
+            "livello": 3,
+            "id": "qs"
+        },
+        {
+            "livello": 3,
+            "id": "depd"
+        },
+        {
+            "livello": 3,
+            "id": "etag"
+        },
+        {
+            "livello": 3,
+            "id": "send"
+        },
+        {
+            "livello": 3,
+            "id": "vary"
+        },
+        {
+            "livello": 3,
+            "id": "fresh"
+        },
+        {
+            "livello": 3,
+            "id": "cookie"
+        },
+        {
+            "livello": 3,
+            "id": "accepts"
+        },
+        {
+            "livello": 3,
+            "id": "methods"
+        },
+        {
+            "livello": 3,
+            "id": "type-is"
+        },
+        {
+            "livello": 3,
+            "id": "parseurl"
+        },
+        {
+            "livello": 3,
+            "id": "statuses"
+        },
+        {
+            "livello": 3,
+            "id": "encodeurl"
+        },
+        {
+            "livello": 3,
+            "id": "proxy-addr"
+        },
+        {
+            "livello": 3,
+            "id": "body-parser"
+        },
+        {
+            "livello": 3,
+            "id": "escape-html"
+        },
+        {
+            "livello": 3,
+            "id": "http-errors"
+        },
+        {
+            "livello": 3,
+            "id": "on-finished"
+        },
+        {
+            "livello": 3,
+            "id": "safe-buffer"
+        },
+        {
+            "livello": 3,
+            "id": "utils-merge"
+        },
+        {
+            "livello": 3,
+            "id": "content-type"
+        },
+        {
+            "livello": 3,
+            "id": "finalhandler"
+        },
+        {
+            "livello": 3,
+            "id": "range-parser"
+        },
+        {
+            "livello": 3,
+            "id": "serve-static"
+        },
+        {
+            "livello": 3,
+            "id": "array-flatten"
+        },
+        {
+            "livello": 3,
+            "id": "path-to-regexp"
+        },
+        {
+            "livello": 3,
+            "id": "setprototypeof"
+        },
+        {
+            "livello": 3,
+            "id": "cookie-signature"
+        },
+        {
+            "livello": 3,
+            "id": "merge-descriptors"
+        },
+        {
+            "livello": 3,
+            "id": "content-disposition"
+        },
+        {
+            "livello": 3,
+            "id": "@types/retry"
+        },
+        {
+            "livello": 3,
+            "id": "is-network-error"
+        },
+        {
+            "livello": 3,
+            "id": "retry"
+        },
+        {
+            "livello": 3,
+            "id": "@types/node"
+        },
+        {
+            "livello": 3,
+            "id": "@types/node-forge"
+        },
+        {
+            "livello": 3,
+            "id": "node-forge"
+        },
+        {
+            "livello": 3,
+            "id": "bytes"
+        },
+        {
+            "livello": 3,
+            "id": "on-headers"
+        },
+        {
+            "livello": 3,
+            "id": "compressible"
+        },
+        {
+            "livello": 3,
+            "id": "batch"
+        },
+        {
+            "livello": 3,
+            "id": "shell-quote"
+        },
+        {
+            "livello": 3,
+            "id": "@types/qs"
+        },
+        {
+            "livello": 3,
+            "id": "@types/body-parser"
+        },
+        {
+            "livello": 3,
+            "id": "@types/express-serve-static-core"
+        },
+        {
+            "livello": 3,
+            "id": "fast-deep-equal"
+        },
+        {
+            "livello": 3,
+            "id": "multicast-dns"
+        },
+        {
+            "livello": 3,
+            "id": "@types/send"
+        },
+        {
+            "livello": 3,
+            "id": "@types/http-errors"
+        },
+        {
+            "livello": 3,
+            "id": "@types/http-proxy"
+        },
+        {
+            "livello": 3,
+            "id": "http-proxy"
+        },
+        {
+            "livello": 3,
+            "id": "is-glob"
+        },
+        {
+            "livello": 3,
+            "id": "is-plain-object"
+        },
+        {
+            "livello": 3,
+            "id": "memfs"
+        },
+        {
+            "livello": 3,
+            "id": "kind-of"
+        },
+        {
+            "livello": 3,
+            "id": "shallow-clone"
+        },
+        {
+            "livello": 4,
+            "id": "@types/minimist"
+        },
+        {
+            "livello": 4,
+            "id": "@babel/helper-string-parser"
+        },
+        {
+            "livello": 4,
+            "id": "@babel/helper-validator-identifier"
+        },
+        {
+            "livello": 4,
+            "id": "globals"
+        },
+        {
+            "livello": 4,
+            "id": "jsesc"
+        },
+        {
+            "livello": 4,
+            "id": "@jridgewell/gen-mapping"
+        },
+        {
+            "livello": 4,
+            "id": "js-tokens"
+        },
+        {
+            "livello": 4,
+            "id": "@babel/helper-module-imports"
+        },
+        {
+            "livello": 4,
+            "id": "@babel/compat-data"
+        },
+        {
+            "livello": 4,
+            "id": "@babel/helper-validator-option"
+        },
+        {
+            "livello": 4,
+            "id": "cssesc"
+        },
+        {
+            "livello": 4,
+            "id": "util-deprecate"
+        },
+        {
+            "livello": 4,
+            "id": "caniuse-api"
+        },
+        {
+            "livello": 4,
+            "id": "colord"
+        },
+        {
+            "livello": 4,
+            "id": "stylehacks"
+        },
+        {
+            "livello": 4,
+            "id": "svgo"
+        },
+        {
+            "livello": 4,
+            "id": "fast-uri"
+        },
+        {
+            "livello": 4,
+            "id": "json-schema-traverse"
+        },
+        {
+            "livello": 4,
+            "id": "require-from-string"
+        },
+        {
+            "livello": 4,
+            "id": "string-width-cjs"
+        },
+        {
+            "livello": 4,
+            "id": "strip-ansi-cjs"
+        },
+        {
+            "livello": 4,
+            "id": "wrap-ansi-cjs"
+        },
+        {
+            "livello": 4,
+            "id": "no-case"
+        },
+        {
+            "livello": 4,
+            "id": "@jridgewell/source-map"
+        },
+        {
+            "livello": 4,
+            "id": "source-map-support"
+        },
+        {
+            "livello": 4,
+            "id": "css-select"
+        },
+        {
+            "livello": 4,
+            "id": "dom-converter"
+        },
+        {
+            "livello": 4,
+            "id": "htmlparser2"
+        },
+        {
+            "livello": 4,
+            "id": "ansi-styles"
+        },
+        {
+            "livello": 4,
+            "id": "external-editor"
+        },
+        {
+            "livello": 4,
+            "id": "@isaacs/fs-minipass"
+        },
+        {
+            "livello": 4,
+            "id": "chownr"
+        },
+        {
+            "livello": 4,
+            "id": "minizlib"
+        },
+        {
+            "livello": 4,
+            "id": "yallist"
+        },
+        {
+            "livello": 4,
+            "id": "isexe"
+        },
+        {
+            "livello": 4,
+            "id": "js-base64"
+        },
+        {
+            "livello": 4,
+            "id": "shebang-regex"
+        },
+        {
+            "livello": 4,
+            "id": "abort-controller"
+        },
+        {
+            "livello": 4,
+            "id": "buffer"
+        },
+        {
+            "livello": 4,
+            "id": "process"
+        },
+        {
+            "livello": 4,
+            "id": "string_decoder"
+        },
+        {
+            "livello": 4,
+            "id": "agent-base"
+        },
+        {
+            "livello": 4,
+            "id": "http-proxy-agent"
+        },
+        {
+            "livello": 4,
+            "id": "https-proxy-agent"
+        },
+        {
+            "livello": 4,
+            "id": "socks-proxy-agent"
+        },
+        {
+            "livello": 4,
+            "id": "@npmcli/fs"
+        },
+        {
+            "livello": 4,
+            "id": "fs-minipass"
+        },
+        {
+            "livello": 4,
+            "id": "minipass-collect"
+        },
+        {
+            "livello": 4,
+            "id": "p-map"
+        },
+        {
+            "livello": 4,
+            "id": "unique-filename"
+        },
+        {
+            "livello": 4,
+            "id": "minipass-sized"
+        },
+        {
+            "livello": 4,
+            "id": "err-code"
+        },
+        {
+            "livello": 4,
+            "id": "is-docker"
+        },
+        {
+            "livello": 4,
+            "id": "onetime"
+        },
+        {
+            "livello": 4,
+            "id": "parent-module"
+        },
+        {
+            "livello": 4,
+            "id": "resolve-from"
+        },
+        {
+            "livello": 4,
+            "id": "argparse"
+        },
+        {
+            "livello": 4,
+            "id": "index-to-position"
+        },
+        {
+            "livello": 4,
+            "id": "type-fest"
+        },
+        {
+            "livello": 4,
+            "id": "wrappy"
+        },
+        {
+            "livello": 4,
+            "id": "esutils"
+        },
+        {
+            "livello": 4,
+            "id": "minimist"
+        },
+        {
+            "livello": 4,
+            "id": "uglify-js"
+        },
+        {
+            "livello": 4,
+            "id": "function-bind"
+        },
+        {
+            "livello": 4,
+            "id": "@nodelib/fs.scandir"
+        },
+        {
+            "livello": 4,
+            "id": "fastq"
+        },
+        {
+            "livello": 4,
+            "id": "braces"
+        },
+        {
+            "livello": 4,
+            "id": "picomatch"
+        },
+        {
+            "livello": 4,
+            "id": "@webassemblyjs/floating-point-hex-parser"
+        },
+        {
+            "livello": 4,
+            "id": "@xtuc/long"
+        },
+        {
+            "livello": 4,
+            "id": "@xtuc/ieee754"
+        },
+        {
+            "livello": 4,
+            "id": "@jridgewell/resolve-uri"
+        },
+        {
+            "livello": 4,
+            "id": "jest-util"
+        },
+        {
+            "livello": 4,
+            "id": "merge-stream"
+        },
+        {
+            "livello": 4,
+            "id": "randombytes"
+        },
+        {
+            "livello": 4,
+            "id": "bundle-name"
+        },
+        {
+            "livello": 4,
+            "id": "default-browser-id"
+        },
+        {
+            "livello": 4,
+            "id": "detect-node"
+        },
+        {
+            "livello": 4,
+            "id": "hpack.js"
+        },
+        {
+            "livello": 4,
+            "id": "obuf"
+        },
+        {
+            "livello": 4,
+            "id": "wbuf"
+        },
+        {
+            "livello": 4,
+            "id": "http-parser-js"
+        },
+        {
+            "livello": 4,
+            "id": "websocket-extensions"
+        },
+        {
+            "livello": 4,
+            "id": "side-channel"
+        },
+        {
+            "livello": 4,
+            "id": "destroy"
+        },
+        {
+            "livello": 4,
+            "id": "media-typer"
+        },
+        {
+            "livello": 4,
+            "id": "forwarded"
+        },
+        {
+            "livello": 4,
+            "id": "unpipe"
+        },
+        {
+            "livello": 4,
+            "id": "raw-body"
+        },
+        {
+            "livello": 4,
+            "id": "inherits"
+        },
+        {
+            "livello": 4,
+            "id": "toidentifier"
+        },
+        {
+            "livello": 4,
+            "id": "ee-first"
+        },
+        {
+            "livello": 4,
+            "id": "undici-types"
+        },
+        {
+            "livello": 4,
+            "id": "@types/connect"
+        },
+        {
+            "livello": 4,
+            "id": "@types/range-parser"
+        },
+        {
+            "livello": 4,
+            "id": "dns-packet"
+        },
+        {
+            "livello": 4,
+            "id": "thunky"
+        },
+        {
+            "livello": 4,
+            "id": "@types/mime"
+        },
+        {
+            "livello": 4,
+            "id": "eventemitter3"
+        },
+        {
+            "livello": 4,
+            "id": "requires-port"
+        },
+        {
+            "livello": 4,
+            "id": "follow-redirects"
+        },
+        {
+            "livello": 4,
+            "id": "is-extglob"
+        },
+        {
+            "livello": 4,
+            "id": "@jsonjoy.com/json-pack"
+        },
+        {
+            "livello": 4,
+            "id": "@jsonjoy.com/util"
+        },
+        {
+            "livello": 4,
+            "id": "tree-dump"
+        },
+        {
+            "livello": 5,
+            "id": "@jridgewell/set-array"
+        },
+        {
+            "livello": 5,
+            "id": "lodash.uniq"
+        },
+        {
+            "livello": 5,
+            "id": "lodash.memoize"
+        },
+        {
+            "livello": 5,
+            "id": "csso"
+        },
+        {
+            "livello": 5,
+            "id": "css-tree"
+        },
+        {
+            "livello": 5,
+            "id": "css-what"
+        },
+        {
+            "livello": 5,
+            "id": "@trysound/sax"
+        },
+        {
+            "livello": 5,
+            "id": "buffer-from"
+        },
+        {
+            "livello": 5,
+            "id": "boolbase"
+        },
+        {
+            "livello": 5,
+            "id": "domhandler"
+        },
+        {
+            "livello": 5,
+            "id": "domutils"
+        },
+        {
+            "livello": 5,
+            "id": "nth-check"
+        },
+        {
+            "livello": 5,
+            "id": "utila"
+        },
+        {
+            "livello": 5,
+            "id": "domelementtype"
+        },
+        {
+            "livello": 5,
+            "id": "chardet"
+        },
+        {
+            "livello": 5,
+            "id": "tmp"
+        },
+        {
+            "livello": 5,
+            "id": "event-target-shim"
+        },
+        {
+            "livello": 5,
+            "id": "base64-js"
+        },
+        {
+            "livello": 5,
+            "id": "ieee754"
+        },
+        {
+            "livello": 5,
+            "id": "socks"
+        },
+        {
+            "livello": 5,
+            "id": "unique-slug"
+        },
+        {
+            "livello": 5,
+            "id": "mimic-function"
+        },
+        {
+            "livello": 5,
+            "id": "callsites"
+        },
+        {
+            "livello": 5,
+            "id": "run-parallel"
+        },
+        {
+            "livello": 5,
+            "id": "reusify"
+        },
+        {
+            "livello": 5,
+            "id": "fill-range"
+        },
+        {
+            "livello": 5,
+            "id": "ci-info"
+        },
+        {
+            "livello": 5,
+            "id": "@jest/types"
+        },
+        {
+            "livello": 5,
+            "id": "run-applescript"
+        },
+        {
+            "livello": 5,
+            "id": "minimalistic-assert"
+        },
+        {
+            "livello": 5,
+            "id": "es-errors"
+        },
+        {
+            "livello": 5,
+            "id": "object-inspect"
+        },
+        {
+            "livello": 5,
+            "id": "side-channel-list"
+        },
+        {
+            "livello": 5,
+            "id": "side-channel-map"
+        },
+        {
+            "livello": 5,
+            "id": "side-channel-weakmap"
+        },
+        {
+            "livello": 5,
+            "id": "@leichtgewicht/ip-codec"
+        },
+        {
+            "livello": 5,
+            "id": "@jsonjoy.com/base64"
+        },
+        {
+            "livello": 5,
+            "id": "hyperdyperid"
+        },
+        {
+            "livello": 5,
+            "id": "thingies"
+        },
+        {
+            "livello": 6,
+            "id": "mdn-data"
+        },
+        {
+            "livello": 6,
+            "id": "dom-serializer"
+        },
+        {
+            "livello": 6,
+            "id": "ip-address"
+        },
+        {
+            "livello": 6,
+            "id": "smart-buffer"
+        },
+        {
+            "livello": 6,
+            "id": "imurmurhash"
+        },
+        {
+            "livello": 6,
+            "id": "queue-microtask"
+        },
+        {
+            "livello": 6,
+            "id": "to-regex-range"
+        },
+        {
+            "livello": 6,
+            "id": "@types/yargs"
+        },
+        {
+            "livello": 6,
+            "id": "@jest/schemas"
+        },
+        {
+            "livello": 6,
+            "id": "@types/istanbul-reports"
+        },
+        {
+            "livello": 6,
+            "id": "@types/istanbul-lib-coverage"
+        },
+        {
+            "livello": 6,
+            "id": "call-bound"
+        },
+        {
+            "livello": 6,
+            "id": "get-intrinsic"
+        },
+        {
+            "livello": 7,
+            "id": "is-number"
+        },
+        {
+            "livello": 7,
+            "id": "@types/yargs-parser"
+        },
+        {
+            "livello": 7,
+            "id": "@sinclair/typebox"
+        },
+        {
+            "livello": 7,
+            "id": "@types/istanbul-lib-report"
+        },
+        {
+            "livello": 7,
+            "id": "call-bind-apply-helpers"
+        },
+        {
+            "livello": 7,
+            "id": "es-define-property"
+        },
+        {
+            "livello": 7,
+            "id": "es-object-atoms"
+        },
+        {
+            "livello": 7,
+            "id": "get-proto"
+        },
+        {
+            "livello": 7,
+            "id": "gopd"
+        },
+        {
+            "livello": 7,
+            "id": "has-symbols"
+        },
+        {
+            "livello": 7,
+            "id": "math-intrinsics"
+        },
+        {
+            "livello": 8,
+            "id": "dunder-proto"
+        }
+    ],
+    "links": [
+        {
+            "source": "angular-cli",
+            "target": "@angular-cli/ast-tools"
+        },
+        {
+            "source": "angular-cli",
+            "target": "@angular-cli/base-href-webpack"
+        },
+        {
+            "source": "angular-cli",
+            "target": "@angular/compiler"
+        },
+        {
+            "source": "angular-cli",
+            "target": "@angular/compiler-cli"
+        },
+        {
+            "source": "angular-cli",
+            "target": "@angular/core"
+        },
+        {
+            "source": "angular-cli",
+            "target": "@ngtools/json-schema"
+        },
+        {
+            "source": "angular-cli",
+            "target": "@ngtools/webpack"
+        },
+        {
+            "source": "angular-cli",
+            "target": "async"
+        },
+        {
+            "source": "angular-cli",
+            "target": "autoprefixer"
+        },
+        {
+            "source": "angular-cli",
+            "target": "chalk"
+        },
+        {
+            "source": "angular-cli",
+            "target": "common-tags"
+        },
+        {
+            "source": "angular-cli",
+            "target": "css-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "cssnano"
+        },
+        {
+            "source": "angular-cli",
+            "target": "debug"
+        },
+        {
+            "source": "angular-cli",
+            "target": "denodeify"
+        },
+        {
+            "source": "angular-cli",
+            "target": "diff"
+        },
+        {
+            "source": "angular-cli",
+            "target": "ember-cli-normalize-entity-name"
+        },
+        {
+            "source": "angular-cli",
+            "target": "ember-cli-string-utils"
+        },
+        {
+            "source": "angular-cli",
+            "target": "exists-sync"
+        },
+        {
+            "source": "angular-cli",
+            "target": "extract-text-webpack-plugin"
+        },
+        {
+            "source": "angular-cli",
+            "target": "file-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "findup"
+        },
+        {
+            "source": "angular-cli",
+            "target": "fs-extra"
+        },
+        {
+            "source": "angular-cli",
+            "target": "get-caller-file"
+        },
+        {
+            "source": "angular-cli",
+            "target": "glob"
+        },
+        {
+            "source": "angular-cli",
+            "target": "html-webpack-plugin"
+        },
+        {
+            "source": "angular-cli",
+            "target": "inflection"
+        },
+        {
+            "source": "angular-cli",
+            "target": "inquirer"
+        },
+        {
+            "source": "angular-cli",
+            "target": "isbinaryfile"
+        },
+        {
+            "source": "angular-cli",
+            "target": "json-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "karma-sourcemap-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "karma-webpack"
+        },
+        {
+            "source": "angular-cli",
+            "target": "less"
+        },
+        {
+            "source": "angular-cli",
+            "target": "less-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "lodash"
+        },
+        {
+            "source": "angular-cli",
+            "target": "minimatch"
+        },
+        {
+            "source": "angular-cli",
+            "target": "node-modules-path"
+        },
+        {
+            "source": "angular-cli",
+            "target": "node-sass"
+        },
+        {
+            "source": "angular-cli",
+            "target": "nopt"
+        },
+        {
+            "source": "angular-cli",
+            "target": "opn"
+        },
+        {
+            "source": "angular-cli",
+            "target": "ora"
+        },
+        {
+            "source": "angular-cli",
+            "target": "portfinder"
+        },
+        {
+            "source": "angular-cli",
+            "target": "postcss-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "raw-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "remap-istanbul"
+        },
+        {
+            "source": "angular-cli",
+            "target": "resolve"
+        },
+        {
+            "source": "angular-cli",
+            "target": "rimraf"
+        },
+        {
+            "source": "angular-cli",
+            "target": "rsvp"
+        },
+        {
+            "source": "angular-cli",
+            "target": "sass-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "script-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "semver"
+        },
+        {
+            "source": "angular-cli",
+            "target": "silent-error"
+        },
+        {
+            "source": "angular-cli",
+            "target": "source-map-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "sourcemap-istanbul-instrumenter-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "style-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "stylus"
+        },
+        {
+            "source": "angular-cli",
+            "target": "stylus-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "temp"
+        },
+        {
+            "source": "angular-cli",
+            "target": "through"
+        },
+        {
+            "source": "angular-cli",
+            "target": "typescript"
+        },
+        {
+            "source": "angular-cli",
+            "target": "url-loader"
+        },
+        {
+            "source": "angular-cli",
+            "target": "walk-sync"
+        },
+        {
+            "source": "angular-cli",
+            "target": "webpack"
+        },
+        {
+            "source": "angular-cli",
+            "target": "webpack-dev-server"
+        },
+        {
+            "source": "angular-cli",
+            "target": "webpack-merge"
+        },
+        {
+            "source": "angular-cli",
+            "target": "webpack-sources"
+        },
+        {
+            "source": "angular-cli",
+            "target": "zone.js"
+        },
+        {
+            "source": "@angular-cli/ast-tools",
+            "target": "@angular/tsc-wrapped"
+        },
+        {
+            "source": "@angular-cli/ast-tools",
+            "target": "rxjs"
+        },
+        {
+            "source": "@angular-cli/ast-tools",
+            "target": "denodeify"
+        },
+        {
+            "source": "@angular-cli/ast-tools",
+            "target": "typescript"
+        },
+        {
+            "source": "@angular/compiler",
+            "target": "tslib"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "tslib"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "yargs"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "semver"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "chokidar"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "@babel/core"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "reflect-metadata"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "convert-source-map"
+        },
+        {
+            "source": "@angular/compiler-cli",
+            "target": "@jridgewell/sourcemap-codec"
+        },
+        {
+            "source": "@angular/core",
+            "target": "tslib"
+        },
+        {
+            "source": "autoprefixer",
+            "target": "browserslist"
+        },
+        {
+            "source": "autoprefixer",
+            "target": "caniuse-lite"
+        },
+        {
+            "source": "autoprefixer",
+            "target": "fraction.js"
+        },
+        {
+            "source": "autoprefixer",
+            "target": "normalize-range"
+        },
+        {
+            "source": "autoprefixer",
+            "target": "picocolors"
+        },
+        {
+            "source": "autoprefixer",
+            "target": "postcss-value-parser"
+        },
+        {
+            "source": "css-loader",
+            "target": "icss-utils"
+        },
+        {
+            "source": "css-loader",
+            "target": "postcss"
+        },
+        {
+            "source": "css-loader",
+            "target": "postcss-modules-extract-imports"
+        },
+        {
+            "source": "css-loader",
+            "target": "postcss-modules-local-by-default"
+        },
+        {
+            "source": "css-loader",
+            "target": "postcss-modules-scope"
+        },
+        {
+            "source": "css-loader",
+            "target": "postcss-modules-values"
+        },
+        {
+            "source": "css-loader",
+            "target": "postcss-value-parser"
+        },
+        {
+            "source": "css-loader",
+            "target": "semver"
+        },
+        {
+            "source": "cssnano",
+            "target": "lilconfig"
+        },
+        {
+            "source": "cssnano",
+            "target": "cssnano-preset-default"
+        },
+        {
+            "source": "debug",
+            "target": "ms"
+        },
+        {
+            "source": "ember-cli-normalize-entity-name",
+            "target": "silent-error"
+        },
+        {
+            "source": "extract-text-webpack-plugin",
+            "target": "loader-utils"
+        },
+        {
+            "source": "extract-text-webpack-plugin",
+            "target": "schema-utils"
+        },
+        {
+            "source": "extract-text-webpack-plugin",
+            "target": "webpack-sources"
+        },
+        {
+            "source": "file-loader",
+            "target": "loader-utils"
+        },
+        {
+            "source": "file-loader",
+            "target": "schema-utils"
+        },
+        {
+            "source": "findup",
+            "target": "colors"
+        },
+        {
+            "source": "findup",
+            "target": "commander"
+        },
+        {
+            "source": "fs-extra",
+            "target": "jsonfile"
+        },
+        {
+            "source": "fs-extra",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "fs-extra",
+            "target": "universalify"
+        },
+        {
+            "source": "glob",
+            "target": "minipass"
+        },
+        {
+            "source": "glob",
+            "target": "jackspeak"
+        },
+        {
+            "source": "glob",
+            "target": "minimatch"
+        },
+        {
+            "source": "glob",
+            "target": "path-scurry"
+        },
+        {
+            "source": "glob",
+            "target": "foreground-child"
+        },
+        {
+            "source": "glob",
+            "target": "package-json-from-dist"
+        },
+        {
+            "source": "html-webpack-plugin",
+            "target": "@types/html-minifier-terser"
+        },
+        {
+            "source": "html-webpack-plugin",
+            "target": "html-minifier-terser"
+        },
+        {
+            "source": "html-webpack-plugin",
+            "target": "lodash"
+        },
+        {
+            "source": "html-webpack-plugin",
+            "target": "pretty-error"
+        },
+        {
+            "source": "html-webpack-plugin",
+            "target": "tapable"
+        },
+        {
+            "source": "inquirer",
+            "target": "@inquirer/core"
+        },
+        {
+            "source": "inquirer",
+            "target": "@inquirer/prompts"
+        },
+        {
+            "source": "inquirer",
+            "target": "@inquirer/type"
+        },
+        {
+            "source": "inquirer",
+            "target": "ansi-escapes"
+        },
+        {
+            "source": "inquirer",
+            "target": "mute-stream"
+        },
+        {
+            "source": "inquirer",
+            "target": "run-async"
+        },
+        {
+            "source": "inquirer",
+            "target": "rxjs"
+        },
+        {
+            "source": "karma-sourcemap-loader",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "karma-webpack",
+            "target": "minimatch"
+        },
+        {
+            "source": "karma-webpack",
+            "target": "webpack-merge"
+        },
+        {
+            "source": "less",
+            "target": "copy-anything"
+        },
+        {
+            "source": "less",
+            "target": "parse-node-version"
+        },
+        {
+            "source": "less",
+            "target": "tslib"
+        },
+        {
+            "source": "less",
+            "target": "errno"
+        },
+        {
+            "source": "less",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "less",
+            "target": "image-size"
+        },
+        {
+            "source": "less",
+            "target": "make-dir"
+        },
+        {
+            "source": "less",
+            "target": "mime"
+        },
+        {
+            "source": "less",
+            "target": "needle"
+        },
+        {
+            "source": "less",
+            "target": "source-map"
+        },
+        {
+            "source": "minimatch",
+            "target": "brace-expansion"
+        },
+        {
+            "source": "node-sass",
+            "target": "nan"
+        },
+        {
+            "source": "node-sass",
+            "target": "gaze"
+        },
+        {
+            "source": "node-sass",
+            "target": "meow"
+        },
+        {
+            "source": "node-sass",
+            "target": "node-gyp"
+        },
+        {
+            "source": "node-sass",
+            "target": "get-stdin"
+        },
+        {
+            "source": "node-sass",
+            "target": "sass-graph"
+        },
+        {
+            "source": "node-sass",
+            "target": "cross-spawn"
+        },
+        {
+            "source": "node-sass",
+            "target": "async-foreach"
+        },
+        {
+            "source": "node-sass",
+            "target": "stdout-stream"
+        },
+        {
+            "source": "node-sass",
+            "target": "true-case-path"
+        },
+        {
+            "source": "node-sass",
+            "target": "make-fetch-happen"
+        },
+        {
+            "source": "nopt",
+            "target": "abbrev"
+        },
+        {
+            "source": "opn",
+            "target": "is-wsl"
+        },
+        {
+            "source": "ora",
+            "target": "cli-cursor"
+        },
+        {
+            "source": "ora",
+            "target": "cli-spinners"
+        },
+        {
+            "source": "ora",
+            "target": "is-interactive"
+        },
+        {
+            "source": "ora",
+            "target": "is-unicode-supported"
+        },
+        {
+            "source": "ora",
+            "target": "log-symbols"
+        },
+        {
+            "source": "ora",
+            "target": "stdin-discarder"
+        },
+        {
+            "source": "ora",
+            "target": "string-width"
+        },
+        {
+            "source": "ora",
+            "target": "strip-ansi"
+        },
+        {
+            "source": "portfinder",
+            "target": "mkdirp"
+        },
+        {
+            "source": "postcss-loader",
+            "target": "cosmiconfig"
+        },
+        {
+            "source": "postcss-loader",
+            "target": "jiti"
+        },
+        {
+            "source": "postcss-loader",
+            "target": "semver"
+        },
+        {
+            "source": "raw-loader",
+            "target": "loader-utils"
+        },
+        {
+            "source": "raw-loader",
+            "target": "schema-utils"
+        },
+        {
+            "source": "remap-istanbul",
+            "target": "istanbul"
+        },
+        {
+            "source": "remap-istanbul",
+            "target": "plugin-error"
+        },
+        {
+            "source": "remap-istanbul",
+            "target": "source-map"
+        },
+        {
+            "source": "remap-istanbul",
+            "target": "through2"
+        },
+        {
+            "source": "resolve",
+            "target": "is-core-module"
+        },
+        {
+            "source": "resolve",
+            "target": "path-parse"
+        },
+        {
+            "source": "resolve",
+            "target": "supports-preserve-symlinks-flag"
+        },
+        {
+            "source": "rimraf",
+            "target": "package-json-from-dist"
+        },
+        {
+            "source": "sass-loader",
+            "target": "neo-async"
+        },
+        {
+            "source": "source-map-loader",
+            "target": "iconv-lite"
+        },
+        {
+            "source": "source-map-loader",
+            "target": "source-map-js"
+        },
+        {
+            "source": "sourcemap-istanbul-instrumenter-loader",
+            "target": "istanbul"
+        },
+        {
+            "source": "sourcemap-istanbul-instrumenter-loader",
+            "target": "loader-utils"
+        },
+        {
+            "source": "sourcemap-istanbul-instrumenter-loader",
+            "target": "object-assign"
+        },
+        {
+            "source": "stylus",
+            "target": "@adobe/css-tools"
+        },
+        {
+            "source": "stylus",
+            "target": "sax"
+        },
+        {
+            "source": "stylus",
+            "target": "source-map"
+        },
+        {
+            "source": "stylus-loader",
+            "target": "fast-glob"
+        },
+        {
+            "source": "stylus-loader",
+            "target": "normalize-path"
+        },
+        {
+            "source": "temp",
+            "target": "mkdirp"
+        },
+        {
+            "source": "url-loader",
+            "target": "loader-utils"
+        },
+        {
+            "source": "url-loader",
+            "target": "mime-types"
+        },
+        {
+            "source": "url-loader",
+            "target": "schema-utils"
+        },
+        {
+            "source": "walk-sync",
+            "target": "@types/minimatch"
+        },
+        {
+            "source": "walk-sync",
+            "target": "ensure-posix-path"
+        },
+        {
+            "source": "walk-sync",
+            "target": "matcher-collection"
+        },
+        {
+            "source": "webpack",
+            "target": "@types/eslint-scope"
+        },
+        {
+            "source": "webpack",
+            "target": "@types/estree"
+        },
+        {
+            "source": "webpack",
+            "target": "@webassemblyjs/ast"
+        },
+        {
+            "source": "webpack",
+            "target": "@webassemblyjs/wasm-edit"
+        },
+        {
+            "source": "webpack",
+            "target": "@webassemblyjs/wasm-parser"
+        },
+        {
+            "source": "webpack",
+            "target": "acorn"
+        },
+        {
+            "source": "webpack",
+            "target": "browserslist"
+        },
+        {
+            "source": "webpack",
+            "target": "chrome-trace-event"
+        },
+        {
+            "source": "webpack",
+            "target": "enhanced-resolve"
+        },
+        {
+            "source": "webpack",
+            "target": "es-module-lexer"
+        },
+        {
+            "source": "webpack",
+            "target": "eslint-scope"
+        },
+        {
+            "source": "webpack",
+            "target": "events"
+        },
+        {
+            "source": "webpack",
+            "target": "glob-to-regexp"
+        },
+        {
+            "source": "webpack",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "webpack",
+            "target": "json-parse-even-better-errors"
+        },
+        {
+            "source": "webpack",
+            "target": "loader-runner"
+        },
+        {
+            "source": "webpack",
+            "target": "mime-types"
+        },
+        {
+            "source": "webpack",
+            "target": "neo-async"
+        },
+        {
+            "source": "webpack",
+            "target": "schema-utils"
+        },
+        {
+            "source": "webpack",
+            "target": "tapable"
+        },
+        {
+            "source": "webpack",
+            "target": "terser-webpack-plugin"
+        },
+        {
+            "source": "webpack",
+            "target": "watchpack"
+        },
+        {
+            "source": "webpack",
+            "target": "webpack-sources"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "ws"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "open"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "spdy"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "sockjs"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "express"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "p-retry"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "chokidar"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/ws"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "colorette"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "ipaddr.js"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "selfsigned"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "compression"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "serve-index"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "schema-utils"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/sockjs"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "launch-editor"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/bonjour"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/express"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "bonjour-service"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/serve-index"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/serve-static"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "ansi-html-community"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "http-proxy-middleware"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "webpack-dev-middleware"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "connect-history-api-fallback"
+        },
+        {
+            "source": "webpack-dev-server",
+            "target": "@types/connect-history-api-fallback"
+        },
+        {
+            "source": "webpack-merge",
+            "target": "flat"
+        },
+        {
+            "source": "webpack-merge",
+            "target": "wildcard"
+        },
+        {
+            "source": "webpack-merge",
+            "target": "clone-deep"
+        },
+        {
+            "source": "@angular/tsc-wrapped",
+            "target": "tsickle"
+        },
+        {
+            "source": "rxjs",
+            "target": "tslib"
+        },
+        {
+            "source": "yargs",
+            "target": "y18n"
+        },
+        {
+            "source": "yargs",
+            "target": "cliui"
+        },
+        {
+            "source": "yargs",
+            "target": "escalade"
+        },
+        {
+            "source": "yargs",
+            "target": "string-width"
+        },
+        {
+            "source": "yargs",
+            "target": "yargs-parser"
+        },
+        {
+            "source": "yargs",
+            "target": "require-directory"
+        },
+        {
+            "source": "chokidar",
+            "target": "readdirp"
+        },
+        {
+            "source": "@babel/core",
+            "target": "json5"
+        },
+        {
+            "source": "@babel/core",
+            "target": "gensync"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/types"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/parser"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/helpers"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/template"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/traverse"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/generator"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/code-frame"
+        },
+        {
+            "source": "@babel/core",
+            "target": "convert-source-map"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@ampproject/remapping"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/helper-module-transforms"
+        },
+        {
+            "source": "@babel/core",
+            "target": "@babel/helper-compilation-targets"
+        },
+        {
+            "source": "browserslist",
+            "target": "caniuse-lite"
+        },
+        {
+            "source": "browserslist",
+            "target": "electron-to-chromium"
+        },
+        {
+            "source": "browserslist",
+            "target": "node-releases"
+        },
+        {
+            "source": "browserslist",
+            "target": "update-browserslist-db"
+        },
+        {
+            "source": "postcss",
+            "target": "nanoid"
+        },
+        {
+            "source": "postcss",
+            "target": "source-map-js"
+        },
+        {
+            "source": "postcss-modules-local-by-default",
+            "target": "postcss-selector-parser"
+        },
+        {
+            "source": "postcss-modules-scope",
+            "target": "postcss-selector-parser"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "css-declaration-sorter"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-calc"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "cssnano-utils"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-colormin"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-convert-values"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-discard-comments"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-discard-duplicates"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-discard-empty"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-discard-overridden"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-merge-longhand"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-merge-rules"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-minify-font-values"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-minify-gradients"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-minify-params"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-minify-selectors"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-charset"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-display-values"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-positions"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-repeat-style"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-string"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-timing-functions"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-unicode"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-url"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-normalize-whitespace"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-ordered-values"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-reduce-initial"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-reduce-transforms"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-svgo"
+        },
+        {
+            "source": "cssnano-preset-default",
+            "target": "postcss-unique-selectors"
+        },
+        {
+            "source": "schema-utils",
+            "target": "@types/json-schema"
+        },
+        {
+            "source": "schema-utils",
+            "target": "ajv"
+        },
+        {
+            "source": "schema-utils",
+            "target": "ajv-formats"
+        },
+        {
+            "source": "schema-utils",
+            "target": "ajv-keywords"
+        },
+        {
+            "source": "jsonfile",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "jsonfile",
+            "target": "universalify"
+        },
+        {
+            "source": "jackspeak",
+            "target": "@isaacs/cliui"
+        },
+        {
+            "source": "path-scurry",
+            "target": "lru-cache"
+        },
+        {
+            "source": "foreground-child",
+            "target": "cross-spawn"
+        },
+        {
+            "source": "foreground-child",
+            "target": "signal-exit"
+        },
+        {
+            "source": "html-minifier-terser",
+            "target": "camel-case"
+        },
+        {
+            "source": "html-minifier-terser",
+            "target": "clean-css"
+        },
+        {
+            "source": "html-minifier-terser",
+            "target": "entities"
+        },
+        {
+            "source": "html-minifier-terser",
+            "target": "param-case"
+        },
+        {
+            "source": "html-minifier-terser",
+            "target": "relateurl"
+        },
+        {
+            "source": "html-minifier-terser",
+            "target": "terser"
+        },
+        {
+            "source": "pretty-error",
+            "target": "renderkid"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "@inquirer/figures"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "@inquirer/type"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "ansi-escapes"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "cli-width"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "mute-stream"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "signal-exit"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "strip-ansi"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "wrap-ansi"
+        },
+        {
+            "source": "@inquirer/core",
+            "target": "yoctocolors-cjs"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/checkbox"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/confirm"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/editor"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/expand"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/input"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/number"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/password"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/rawlist"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/search"
+        },
+        {
+            "source": "@inquirer/prompts",
+            "target": "@inquirer/select"
+        },
+        {
+            "source": "ansi-escapes",
+            "target": "environment"
+        },
+        {
+            "source": "copy-anything",
+            "target": "is-what"
+        },
+        {
+            "source": "errno",
+            "target": "prr"
+        },
+        {
+            "source": "image-size",
+            "target": "queue"
+        },
+        {
+            "source": "needle",
+            "target": "iconv-lite"
+        },
+        {
+            "source": "needle",
+            "target": "sax"
+        },
+        {
+            "source": "brace-expansion",
+            "target": "balanced-match"
+        },
+        {
+            "source": "gaze",
+            "target": "globule"
+        },
+        {
+            "source": "node-gyp",
+            "target": "env-paths"
+        },
+        {
+            "source": "node-gyp",
+            "target": "exponential-backoff"
+        },
+        {
+            "source": "node-gyp",
+            "target": "make-fetch-happen"
+        },
+        {
+            "source": "node-gyp",
+            "target": "proc-log"
+        },
+        {
+            "source": "node-gyp",
+            "target": "tar"
+        },
+        {
+            "source": "node-gyp",
+            "target": "which"
+        },
+        {
+            "source": "sass-graph",
+            "target": "scss-tokenizer"
+        },
+        {
+            "source": "cross-spawn",
+            "target": "which"
+        },
+        {
+            "source": "cross-spawn",
+            "target": "path-key"
+        },
+        {
+            "source": "cross-spawn",
+            "target": "shebang-command"
+        },
+        {
+            "source": "stdout-stream",
+            "target": "readable-stream"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "@npmcli/agent"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "cacache"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "http-cache-semantics"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "minipass-fetch"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "minipass-flush"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "minipass-pipeline"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "negotiator"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "proc-log"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "promise-retry"
+        },
+        {
+            "source": "make-fetch-happen",
+            "target": "ssri"
+        },
+        {
+            "source": "is-wsl",
+            "target": "is-inside-container"
+        },
+        {
+            "source": "cli-cursor",
+            "target": "restore-cursor"
+        },
+        {
+            "source": "log-symbols",
+            "target": "yoctocolors"
+        },
+        {
+            "source": "string-width",
+            "target": "emoji-regex"
+        },
+        {
+            "source": "string-width",
+            "target": "get-east-asian-width"
+        },
+        {
+            "source": "string-width",
+            "target": "strip-ansi"
+        },
+        {
+            "source": "strip-ansi",
+            "target": "ansi-regex"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "env-paths"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "import-fresh"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "js-yaml"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "parse-json"
+        },
+        {
+            "source": "istanbul",
+            "target": "once"
+        },
+        {
+            "source": "istanbul",
+            "target": "which"
+        },
+        {
+            "source": "istanbul",
+            "target": "esprima"
+        },
+        {
+            "source": "istanbul",
+            "target": "js-yaml"
+        },
+        {
+            "source": "istanbul",
+            "target": "wordwrap"
+        },
+        {
+            "source": "istanbul",
+            "target": "escodegen"
+        },
+        {
+            "source": "istanbul",
+            "target": "handlebars"
+        },
+        {
+            "source": "istanbul",
+            "target": "supports-color"
+        },
+        {
+            "source": "plugin-error",
+            "target": "ansi-colors"
+        },
+        {
+            "source": "through2",
+            "target": "readable-stream"
+        },
+        {
+            "source": "is-core-module",
+            "target": "hasown"
+        },
+        {
+            "source": "iconv-lite",
+            "target": "safer-buffer"
+        },
+        {
+            "source": "fast-glob",
+            "target": "@nodelib/fs.stat"
+        },
+        {
+            "source": "fast-glob",
+            "target": "@nodelib/fs.walk"
+        },
+        {
+            "source": "fast-glob",
+            "target": "glob-parent"
+        },
+        {
+            "source": "fast-glob",
+            "target": "merge2"
+        },
+        {
+            "source": "fast-glob",
+            "target": "micromatch"
+        },
+        {
+            "source": "mime-types",
+            "target": "mime-db"
+        },
+        {
+            "source": "@types/eslint-scope",
+            "target": "@types/eslint"
+        },
+        {
+            "source": "@types/eslint-scope",
+            "target": "@types/estree"
+        },
+        {
+            "source": "@webassemblyjs/ast",
+            "target": "@webassemblyjs/helper-numbers"
+        },
+        {
+            "source": "@webassemblyjs/ast",
+            "target": "@webassemblyjs/helper-wasm-bytecode"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/helper-buffer"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/helper-wasm-bytecode"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/helper-wasm-section"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/wasm-gen"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/wasm-opt"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/wasm-parser"
+        },
+        {
+            "source": "@webassemblyjs/wasm-edit",
+            "target": "@webassemblyjs/wast-printer"
+        },
+        {
+            "source": "@webassemblyjs/wasm-parser",
+            "target": "@webassemblyjs/helper-api-error"
+        },
+        {
+            "source": "@webassemblyjs/wasm-parser",
+            "target": "@webassemblyjs/helper-wasm-bytecode"
+        },
+        {
+            "source": "@webassemblyjs/wasm-parser",
+            "target": "@webassemblyjs/ieee754"
+        },
+        {
+            "source": "@webassemblyjs/wasm-parser",
+            "target": "@webassemblyjs/leb128"
+        },
+        {
+            "source": "@webassemblyjs/wasm-parser",
+            "target": "@webassemblyjs/utf8"
+        },
+        {
+            "source": "eslint-scope",
+            "target": "esrecurse"
+        },
+        {
+            "source": "eslint-scope",
+            "target": "estraverse"
+        },
+        {
+            "source": "terser-webpack-plugin",
+            "target": "@jridgewell/trace-mapping"
+        },
+        {
+            "source": "terser-webpack-plugin",
+            "target": "jest-worker"
+        },
+        {
+            "source": "terser-webpack-plugin",
+            "target": "serialize-javascript"
+        },
+        {
+            "source": "terser-webpack-plugin",
+            "target": "terser"
+        },
+        {
+            "source": "open",
+            "target": "default-browser"
+        },
+        {
+            "source": "open",
+            "target": "define-lazy-prop"
+        },
+        {
+            "source": "open",
+            "target": "is-inside-container"
+        },
+        {
+            "source": "spdy",
+            "target": "handle-thing"
+        },
+        {
+            "source": "spdy",
+            "target": "http-deceiver"
+        },
+        {
+            "source": "spdy",
+            "target": "select-hose"
+        },
+        {
+            "source": "spdy",
+            "target": "spdy-transport"
+        },
+        {
+            "source": "sockjs",
+            "target": "faye-websocket"
+        },
+        {
+            "source": "sockjs",
+            "target": "uuid"
+        },
+        {
+            "source": "sockjs",
+            "target": "websocket-driver"
+        },
+        {
+            "source": "express",
+            "target": "qs"
+        },
+        {
+            "source": "express",
+            "target": "depd"
+        },
+        {
+            "source": "express",
+            "target": "etag"
+        },
+        {
+            "source": "express",
+            "target": "send"
+        },
+        {
+            "source": "express",
+            "target": "vary"
+        },
+        {
+            "source": "express",
+            "target": "fresh"
+        },
+        {
+            "source": "express",
+            "target": "cookie"
+        },
+        {
+            "source": "express",
+            "target": "accepts"
+        },
+        {
+            "source": "express",
+            "target": "methods"
+        },
+        {
+            "source": "express",
+            "target": "type-is"
+        },
+        {
+            "source": "express",
+            "target": "parseurl"
+        },
+        {
+            "source": "express",
+            "target": "statuses"
+        },
+        {
+            "source": "express",
+            "target": "encodeurl"
+        },
+        {
+            "source": "express",
+            "target": "proxy-addr"
+        },
+        {
+            "source": "express",
+            "target": "body-parser"
+        },
+        {
+            "source": "express",
+            "target": "escape-html"
+        },
+        {
+            "source": "express",
+            "target": "http-errors"
+        },
+        {
+            "source": "express",
+            "target": "on-finished"
+        },
+        {
+            "source": "express",
+            "target": "safe-buffer"
+        },
+        {
+            "source": "express",
+            "target": "utils-merge"
+        },
+        {
+            "source": "express",
+            "target": "content-type"
+        },
+        {
+            "source": "express",
+            "target": "finalhandler"
+        },
+        {
+            "source": "express",
+            "target": "range-parser"
+        },
+        {
+            "source": "express",
+            "target": "serve-static"
+        },
+        {
+            "source": "express",
+            "target": "array-flatten"
+        },
+        {
+            "source": "express",
+            "target": "path-to-regexp"
+        },
+        {
+            "source": "express",
+            "target": "setprototypeof"
+        },
+        {
+            "source": "express",
+            "target": "cookie-signature"
+        },
+        {
+            "source": "express",
+            "target": "merge-descriptors"
+        },
+        {
+            "source": "express",
+            "target": "content-disposition"
+        },
+        {
+            "source": "p-retry",
+            "target": "@types/retry"
+        },
+        {
+            "source": "p-retry",
+            "target": "is-network-error"
+        },
+        {
+            "source": "p-retry",
+            "target": "retry"
+        },
+        {
+            "source": "@types/ws",
+            "target": "@types/node"
+        },
+        {
+            "source": "selfsigned",
+            "target": "@types/node-forge"
+        },
+        {
+            "source": "selfsigned",
+            "target": "node-forge"
+        },
+        {
+            "source": "compression",
+            "target": "vary"
+        },
+        {
+            "source": "compression",
+            "target": "bytes"
+        },
+        {
+            "source": "compression",
+            "target": "negotiator"
+        },
+        {
+            "source": "compression",
+            "target": "on-headers"
+        },
+        {
+            "source": "compression",
+            "target": "safe-buffer"
+        },
+        {
+            "source": "compression",
+            "target": "compressible"
+        },
+        {
+            "source": "serve-index",
+            "target": "batch"
+        },
+        {
+            "source": "serve-index",
+            "target": "accepts"
+        },
+        {
+            "source": "serve-index",
+            "target": "parseurl"
+        },
+        {
+            "source": "serve-index",
+            "target": "escape-html"
+        },
+        {
+            "source": "serve-index",
+            "target": "http-errors"
+        },
+        {
+            "source": "@types/sockjs",
+            "target": "@types/node"
+        },
+        {
+            "source": "launch-editor",
+            "target": "shell-quote"
+        },
+        {
+            "source": "@types/bonjour",
+            "target": "@types/node"
+        },
+        {
+            "source": "@types/express",
+            "target": "@types/qs"
+        },
+        {
+            "source": "@types/express",
+            "target": "@types/body-parser"
+        },
+        {
+            "source": "@types/express",
+            "target": "@types/serve-static"
+        },
+        {
+            "source": "@types/express",
+            "target": "@types/express-serve-static-core"
+        },
+        {
+            "source": "bonjour-service",
+            "target": "fast-deep-equal"
+        },
+        {
+            "source": "bonjour-service",
+            "target": "multicast-dns"
+        },
+        {
+            "source": "@types/serve-static",
+            "target": "@types/node"
+        },
+        {
+            "source": "@types/serve-static",
+            "target": "@types/send"
+        },
+        {
+            "source": "@types/serve-static",
+            "target": "@types/http-errors"
+        },
+        {
+            "source": "http-proxy-middleware",
+            "target": "@types/http-proxy"
+        },
+        {
+            "source": "http-proxy-middleware",
+            "target": "http-proxy"
+        },
+        {
+            "source": "http-proxy-middleware",
+            "target": "is-glob"
+        },
+        {
+            "source": "http-proxy-middleware",
+            "target": "is-plain-object"
+        },
+        {
+            "source": "http-proxy-middleware",
+            "target": "micromatch"
+        },
+        {
+            "source": "webpack-dev-middleware",
+            "target": "memfs"
+        },
+        {
+            "source": "webpack-dev-middleware",
+            "target": "on-finished"
+        },
+        {
+            "source": "webpack-dev-middleware",
+            "target": "range-parser"
+        },
+        {
+            "source": "@types/connect-history-api-fallback",
+            "target": "@types/node"
+        },
+        {
+            "source": "@types/connect-history-api-fallback",
+            "target": "@types/express-serve-static-core"
+        },
+        {
+            "source": "clone-deep",
+            "target": "is-plain-object"
+        },
+        {
+            "source": "clone-deep",
+            "target": "kind-of"
+        },
+        {
+            "source": "clone-deep",
+            "target": "shallow-clone"
+        },
+        {
+            "source": "tsickle",
+            "target": "@types/minimist"
+        },
+        {
+            "source": "cliui",
+            "target": "wrap-ansi"
+        },
+        {
+            "source": "@babel/types",
+            "target": "@babel/helper-string-parser"
+        },
+        {
+            "source": "@babel/types",
+            "target": "@babel/helper-validator-identifier"
+        },
+        {
+            "source": "@babel/helpers",
+            "target": "@babel/template"
+        },
+        {
+            "source": "@babel/template",
+            "target": "@babel/code-frame"
+        },
+        {
+            "source": "@babel/traverse",
+            "target": "globals"
+        },
+        {
+            "source": "@babel/traverse",
+            "target": "@babel/generator"
+        },
+        {
+            "source": "@babel/traverse",
+            "target": "@babel/code-frame"
+        },
+        {
+            "source": "@babel/generator",
+            "target": "jsesc"
+        },
+        {
+            "source": "@babel/generator",
+            "target": "@jridgewell/gen-mapping"
+        },
+        {
+            "source": "@babel/generator",
+            "target": "@jridgewell/trace-mapping"
+        },
+        {
+            "source": "@babel/code-frame",
+            "target": "js-tokens"
+        },
+        {
+            "source": "@babel/code-frame",
+            "target": "@babel/helper-validator-identifier"
+        },
+        {
+            "source": "@ampproject/remapping",
+            "target": "@jridgewell/gen-mapping"
+        },
+        {
+            "source": "@ampproject/remapping",
+            "target": "@jridgewell/trace-mapping"
+        },
+        {
+            "source": "@babel/helper-module-transforms",
+            "target": "@babel/helper-module-imports"
+        },
+        {
+            "source": "@babel/helper-module-transforms",
+            "target": "@babel/helper-validator-identifier"
+        },
+        {
+            "source": "@babel/helper-compilation-targets",
+            "target": "lru-cache"
+        },
+        {
+            "source": "@babel/helper-compilation-targets",
+            "target": "@babel/compat-data"
+        },
+        {
+            "source": "@babel/helper-compilation-targets",
+            "target": "@babel/helper-validator-option"
+        },
+        {
+            "source": "postcss-selector-parser",
+            "target": "cssesc"
+        },
+        {
+            "source": "postcss-selector-parser",
+            "target": "util-deprecate"
+        },
+        {
+            "source": "postcss-colormin",
+            "target": "caniuse-api"
+        },
+        {
+            "source": "postcss-colormin",
+            "target": "colord"
+        },
+        {
+            "source": "postcss-merge-longhand",
+            "target": "stylehacks"
+        },
+        {
+            "source": "postcss-merge-rules",
+            "target": "caniuse-api"
+        },
+        {
+            "source": "postcss-minify-gradients",
+            "target": "colord"
+        },
+        {
+            "source": "postcss-minify-selectors",
+            "target": "cssesc"
+        },
+        {
+            "source": "postcss-reduce-initial",
+            "target": "caniuse-api"
+        },
+        {
+            "source": "postcss-svgo",
+            "target": "svgo"
+        },
+        {
+            "source": "ajv",
+            "target": "fast-deep-equal"
+        },
+        {
+            "source": "ajv",
+            "target": "fast-uri"
+        },
+        {
+            "source": "ajv",
+            "target": "json-schema-traverse"
+        },
+        {
+            "source": "ajv",
+            "target": "require-from-string"
+        },
+        {
+            "source": "ajv-keywords",
+            "target": "fast-deep-equal"
+        },
+        {
+            "source": "@isaacs/cliui",
+            "target": "string-width-cjs"
+        },
+        {
+            "source": "@isaacs/cliui",
+            "target": "strip-ansi-cjs"
+        },
+        {
+            "source": "@isaacs/cliui",
+            "target": "wrap-ansi"
+        },
+        {
+            "source": "@isaacs/cliui",
+            "target": "wrap-ansi-cjs"
+        },
+        {
+            "source": "camel-case",
+            "target": "no-case"
+        },
+        {
+            "source": "param-case",
+            "target": "no-case"
+        },
+        {
+            "source": "terser",
+            "target": "@jridgewell/source-map"
+        },
+        {
+            "source": "terser",
+            "target": "source-map-support"
+        },
+        {
+            "source": "renderkid",
+            "target": "css-select"
+        },
+        {
+            "source": "renderkid",
+            "target": "dom-converter"
+        },
+        {
+            "source": "renderkid",
+            "target": "htmlparser2"
+        },
+        {
+            "source": "wrap-ansi",
+            "target": "ansi-styles"
+        },
+        {
+            "source": "@inquirer/editor",
+            "target": "external-editor"
+        },
+        {
+            "source": "tar",
+            "target": "@isaacs/fs-minipass"
+        },
+        {
+            "source": "tar",
+            "target": "chownr"
+        },
+        {
+            "source": "tar",
+            "target": "minizlib"
+        },
+        {
+            "source": "tar",
+            "target": "yallist"
+        },
+        {
+            "source": "which",
+            "target": "isexe"
+        },
+        {
+            "source": "scss-tokenizer",
+            "target": "js-base64"
+        },
+        {
+            "source": "shebang-command",
+            "target": "shebang-regex"
+        },
+        {
+            "source": "readable-stream",
+            "target": "abort-controller"
+        },
+        {
+            "source": "readable-stream",
+            "target": "buffer"
+        },
+        {
+            "source": "readable-stream",
+            "target": "process"
+        },
+        {
+            "source": "readable-stream",
+            "target": "string_decoder"
+        },
+        {
+            "source": "@npmcli/agent",
+            "target": "agent-base"
+        },
+        {
+            "source": "@npmcli/agent",
+            "target": "http-proxy-agent"
+        },
+        {
+            "source": "@npmcli/agent",
+            "target": "https-proxy-agent"
+        },
+        {
+            "source": "@npmcli/agent",
+            "target": "socks-proxy-agent"
+        },
+        {
+            "source": "cacache",
+            "target": "@npmcli/fs"
+        },
+        {
+            "source": "cacache",
+            "target": "fs-minipass"
+        },
+        {
+            "source": "cacache",
+            "target": "minipass-collect"
+        },
+        {
+            "source": "cacache",
+            "target": "minipass-flush"
+        },
+        {
+            "source": "cacache",
+            "target": "minipass-pipeline"
+        },
+        {
+            "source": "cacache",
+            "target": "p-map"
+        },
+        {
+            "source": "cacache",
+            "target": "ssri"
+        },
+        {
+            "source": "cacache",
+            "target": "unique-filename"
+        },
+        {
+            "source": "minipass-fetch",
+            "target": "minipass-sized"
+        },
+        {
+            "source": "minipass-fetch",
+            "target": "minizlib"
+        },
+        {
+            "source": "promise-retry",
+            "target": "err-code"
+        },
+        {
+            "source": "promise-retry",
+            "target": "retry"
+        },
+        {
+            "source": "is-inside-container",
+            "target": "is-docker"
+        },
+        {
+            "source": "restore-cursor",
+            "target": "onetime"
+        },
+        {
+            "source": "import-fresh",
+            "target": "parent-module"
+        },
+        {
+            "source": "import-fresh",
+            "target": "resolve-from"
+        },
+        {
+            "source": "js-yaml",
+            "target": "argparse"
+        },
+        {
+            "source": "parse-json",
+            "target": "index-to-position"
+        },
+        {
+            "source": "parse-json",
+            "target": "type-fest"
+        },
+        {
+            "source": "once",
+            "target": "wrappy"
+        },
+        {
+            "source": "escodegen",
+            "target": "estraverse"
+        },
+        {
+            "source": "escodegen",
+            "target": "esutils"
+        },
+        {
+            "source": "handlebars",
+            "target": "minimist"
+        },
+        {
+            "source": "handlebars",
+            "target": "uglify-js"
+        },
+        {
+            "source": "hasown",
+            "target": "function-bind"
+        },
+        {
+            "source": "@nodelib/fs.walk",
+            "target": "@nodelib/fs.scandir"
+        },
+        {
+            "source": "@nodelib/fs.walk",
+            "target": "fastq"
+        },
+        {
+            "source": "glob-parent",
+            "target": "is-glob"
+        },
+        {
+            "source": "micromatch",
+            "target": "braces"
+        },
+        {
+            "source": "micromatch",
+            "target": "picomatch"
+        },
+        {
+            "source": "@webassemblyjs/helper-numbers",
+            "target": "@webassemblyjs/floating-point-hex-parser"
+        },
+        {
+            "source": "@webassemblyjs/helper-numbers",
+            "target": "@webassemblyjs/helper-api-error"
+        },
+        {
+            "source": "@webassemblyjs/helper-numbers",
+            "target": "@xtuc/long"
+        },
+        {
+            "source": "@webassemblyjs/helper-wasm-section",
+            "target": "@webassemblyjs/wasm-gen"
+        },
+        {
+            "source": "@webassemblyjs/wasm-gen",
+            "target": "@webassemblyjs/ieee754"
+        },
+        {
+            "source": "@webassemblyjs/wasm-gen",
+            "target": "@webassemblyjs/leb128"
+        },
+        {
+            "source": "@webassemblyjs/wasm-gen",
+            "target": "@webassemblyjs/utf8"
+        },
+        {
+            "source": "@webassemblyjs/wast-printer",
+            "target": "@xtuc/long"
+        },
+        {
+            "source": "@webassemblyjs/ieee754",
+            "target": "@xtuc/ieee754"
+        },
+        {
+            "source": "@webassemblyjs/leb128",
+            "target": "@xtuc/long"
+        },
+        {
+            "source": "esrecurse",
+            "target": "estraverse"
+        },
+        {
+            "source": "@jridgewell/trace-mapping",
+            "target": "@jridgewell/resolve-uri"
+        },
+        {
+            "source": "jest-worker",
+            "target": "jest-util"
+        },
+        {
+            "source": "jest-worker",
+            "target": "@types/node"
+        },
+        {
+            "source": "jest-worker",
+            "target": "merge-stream"
+        },
+        {
+            "source": "serialize-javascript",
+            "target": "randombytes"
+        },
+        {
+            "source": "default-browser",
+            "target": "bundle-name"
+        },
+        {
+            "source": "default-browser",
+            "target": "default-browser-id"
+        },
+        {
+            "source": "spdy-transport",
+            "target": "detect-node"
+        },
+        {
+            "source": "spdy-transport",
+            "target": "hpack.js"
+        },
+        {
+            "source": "spdy-transport",
+            "target": "obuf"
+        },
+        {
+            "source": "spdy-transport",
+            "target": "wbuf"
+        },
+        {
+            "source": "faye-websocket",
+            "target": "websocket-driver"
+        },
+        {
+            "source": "websocket-driver",
+            "target": "http-parser-js"
+        },
+        {
+            "source": "websocket-driver",
+            "target": "safe-buffer"
+        },
+        {
+            "source": "websocket-driver",
+            "target": "websocket-extensions"
+        },
+        {
+            "source": "qs",
+            "target": "side-channel"
+        },
+        {
+            "source": "send",
+            "target": "fresh"
+        },
+        {
+            "source": "send",
+            "target": "destroy"
+        },
+        {
+            "source": "send",
+            "target": "statuses"
+        },
+        {
+            "source": "send",
+            "target": "encodeurl"
+        },
+        {
+            "source": "send",
+            "target": "escape-html"
+        },
+        {
+            "source": "send",
+            "target": "http-errors"
+        },
+        {
+            "source": "send",
+            "target": "on-finished"
+        },
+        {
+            "source": "send",
+            "target": "range-parser"
+        },
+        {
+            "source": "type-is",
+            "target": "media-typer"
+        },
+        {
+            "source": "proxy-addr",
+            "target": "forwarded"
+        },
+        {
+            "source": "body-parser",
+            "target": "bytes"
+        },
+        {
+            "source": "body-parser",
+            "target": "unpipe"
+        },
+        {
+            "source": "body-parser",
+            "target": "destroy"
+        },
+        {
+            "source": "body-parser",
+            "target": "raw-body"
+        },
+        {
+            "source": "body-parser",
+            "target": "http-errors"
+        },
+        {
+            "source": "body-parser",
+            "target": "on-finished"
+        },
+        {
+            "source": "body-parser",
+            "target": "content-type"
+        },
+        {
+            "source": "http-errors",
+            "target": "inherits"
+        },
+        {
+            "source": "http-errors",
+            "target": "setprototypeof"
+        },
+        {
+            "source": "http-errors",
+            "target": "toidentifier"
+        },
+        {
+            "source": "on-finished",
+            "target": "ee-first"
+        },
+        {
+            "source": "finalhandler",
+            "target": "unpipe"
+        },
+        {
+            "source": "@types/node",
+            "target": "undici-types"
+        },
+        {
+            "source": "@types/body-parser",
+            "target": "@types/connect"
+        },
+        {
+            "source": "@types/express-serve-static-core",
+            "target": "@types/send"
+        },
+        {
+            "source": "@types/express-serve-static-core",
+            "target": "@types/range-parser"
+        },
+        {
+            "source": "multicast-dns",
+            "target": "dns-packet"
+        },
+        {
+            "source": "multicast-dns",
+            "target": "thunky"
+        },
+        {
+            "source": "@types/send",
+            "target": "@types/mime"
+        },
+        {
+            "source": "http-proxy",
+            "target": "eventemitter3"
+        },
+        {
+            "source": "http-proxy",
+            "target": "requires-port"
+        },
+        {
+            "source": "http-proxy",
+            "target": "follow-redirects"
+        },
+        {
+            "source": "is-glob",
+            "target": "is-extglob"
+        },
+        {
+            "source": "memfs",
+            "target": "@jsonjoy.com/json-pack"
+        },
+        {
+            "source": "memfs",
+            "target": "@jsonjoy.com/util"
+        },
+        {
+            "source": "memfs",
+            "target": "tree-dump"
+        },
+        {
+            "source": "@jridgewell/gen-mapping",
+            "target": "@jridgewell/set-array"
+        },
+        {
+            "source": "caniuse-api",
+            "target": "lodash.uniq"
+        },
+        {
+            "source": "caniuse-api",
+            "target": "lodash.memoize"
+        },
+        {
+            "source": "svgo",
+            "target": "csso"
+        },
+        {
+            "source": "svgo",
+            "target": "css-tree"
+        },
+        {
+            "source": "svgo",
+            "target": "css-what"
+        },
+        {
+            "source": "svgo",
+            "target": "css-select"
+        },
+        {
+            "source": "svgo",
+            "target": "@trysound/sax"
+        },
+        {
+            "source": "source-map-support",
+            "target": "buffer-from"
+        },
+        {
+            "source": "css-select",
+            "target": "boolbase"
+        },
+        {
+            "source": "css-select",
+            "target": "css-what"
+        },
+        {
+            "source": "css-select",
+            "target": "domhandler"
+        },
+        {
+            "source": "css-select",
+            "target": "domutils"
+        },
+        {
+            "source": "css-select",
+            "target": "nth-check"
+        },
+        {
+            "source": "dom-converter",
+            "target": "utila"
+        },
+        {
+            "source": "htmlparser2",
+            "target": "domelementtype"
+        },
+        {
+            "source": "htmlparser2",
+            "target": "domhandler"
+        },
+        {
+            "source": "htmlparser2",
+            "target": "domutils"
+        },
+        {
+            "source": "external-editor",
+            "target": "chardet"
+        },
+        {
+            "source": "external-editor",
+            "target": "tmp"
+        },
+        {
+            "source": "abort-controller",
+            "target": "event-target-shim"
+        },
+        {
+            "source": "buffer",
+            "target": "base64-js"
+        },
+        {
+            "source": "buffer",
+            "target": "ieee754"
+        },
+        {
+            "source": "socks-proxy-agent",
+            "target": "socks"
+        },
+        {
+            "source": "unique-filename",
+            "target": "unique-slug"
+        },
+        {
+            "source": "onetime",
+            "target": "mimic-function"
+        },
+        {
+            "source": "parent-module",
+            "target": "callsites"
+        },
+        {
+            "source": "@nodelib/fs.scandir",
+            "target": "run-parallel"
+        },
+        {
+            "source": "fastq",
+            "target": "reusify"
+        },
+        {
+            "source": "braces",
+            "target": "fill-range"
+        },
+        {
+            "source": "jest-util",
+            "target": "ci-info"
+        },
+        {
+            "source": "jest-util",
+            "target": "@jest/types"
+        },
+        {
+            "source": "bundle-name",
+            "target": "run-applescript"
+        },
+        {
+            "source": "hpack.js",
+            "target": "inherits"
+        },
+        {
+            "source": "hpack.js",
+            "target": "obuf"
+        },
+        {
+            "source": "hpack.js",
+            "target": "wbuf"
+        },
+        {
+            "source": "wbuf",
+            "target": "minimalistic-assert"
+        },
+        {
+            "source": "side-channel",
+            "target": "es-errors"
+        },
+        {
+            "source": "side-channel",
+            "target": "object-inspect"
+        },
+        {
+            "source": "side-channel",
+            "target": "side-channel-list"
+        },
+        {
+            "source": "side-channel",
+            "target": "side-channel-map"
+        },
+        {
+            "source": "side-channel",
+            "target": "side-channel-weakmap"
+        },
+        {
+            "source": "dns-packet",
+            "target": "@leichtgewicht/ip-codec"
+        },
+        {
+            "source": "@jsonjoy.com/json-pack",
+            "target": "@jsonjoy.com/base64"
+        },
+        {
+            "source": "@jsonjoy.com/json-pack",
+            "target": "@jsonjoy.com/util"
+        },
+        {
+            "source": "@jsonjoy.com/json-pack",
+            "target": "hyperdyperid"
+        },
+        {
+            "source": "@jsonjoy.com/json-pack",
+            "target": "thingies"
+        },
+        {
+            "source": "csso",
+            "target": "css-tree"
+        },
+        {
+            "source": "css-tree",
+            "target": "mdn-data"
+        },
+        {
+            "source": "domhandler",
+            "target": "domelementtype"
+        },
+        {
+            "source": "domutils",
+            "target": "dom-serializer"
+        },
+        {
+            "source": "domutils",
+            "target": "domelementtype"
+        },
+        {
+            "source": "socks",
+            "target": "ip-address"
+        },
+        {
+            "source": "socks",
+            "target": "smart-buffer"
+        },
+        {
+            "source": "unique-slug",
+            "target": "imurmurhash"
+        },
+        {
+            "source": "run-parallel",
+            "target": "queue-microtask"
+        },
+        {
+            "source": "fill-range",
+            "target": "to-regex-range"
+        },
+        {
+            "source": "@jest/types",
+            "target": "@types/yargs"
+        },
+        {
+            "source": "@jest/types",
+            "target": "@jest/schemas"
+        },
+        {
+            "source": "@jest/types",
+            "target": "@types/istanbul-reports"
+        },
+        {
+            "source": "@jest/types",
+            "target": "@types/istanbul-lib-coverage"
+        },
+        {
+            "source": "side-channel-map",
+            "target": "call-bound"
+        },
+        {
+            "source": "side-channel-map",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "call-bound"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "to-regex-range",
+            "target": "is-number"
+        },
+        {
+            "source": "@types/yargs",
+            "target": "@types/yargs-parser"
+        },
+        {
+            "source": "@jest/schemas",
+            "target": "@sinclair/typebox"
+        },
+        {
+            "source": "@types/istanbul-reports",
+            "target": "@types/istanbul-lib-report"
+        },
+        {
+            "source": "call-bound",
+            "target": "call-bind-apply-helpers"
+        },
+        {
+            "source": "call-bound",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "call-bind-apply-helpers"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "es-define-property"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "get-proto"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "gopd"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "has-symbols"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "math-intrinsics"
+        },
+        {
+            "source": "get-proto",
+            "target": "dunder-proto"
+        }
+    ]
+}
