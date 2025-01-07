@@ -89,7 +89,7 @@ La dimensione di ciascun nodo è proporzionale al numero dei propri archi in usc
 - *Blu*: nodi del secondo quartile;
 - *Viola*: nodi del terzo quartile;
 - *Giallo*: nodi del quarto quartile;
-I grafi prodotti sono stati salvati in formato HTML nei file `html/grafo1_interattivo.html` e `html/grafo2_interattivo.html`. 
+I grafi prodotti sono stati salvati in formato HTML nei file `html/grafo_diretto_interattivo.html`,  `html/grafo_artificiale_interattivo.html` e `html/grafo_artificiale_v2_interattivo.html`. 
 
  
 
@@ -166,6 +166,6 @@ Questi risultati evidenziano come il modello di _Preferential Attachment_ bilanc
 
 Il grafo indiretto generato con il modello di _Random Walk_ evidenzia una struttura più decentralizzata e clusterizzata rispetto al _Preferential Attachment_. La distanza media è pari a $4.919$, la più alta tra i tre grafi, riflettendo una struttura meno centralizzata. La distanza massima conferma ciò ed è pari a 12, superiore a quella del _Preferential Attachment_. Il clustering coefficient raggiunge un valore di $0.425$, significativamente più alto rispetto agli altri grafi, evidenziando una forte propensione alla formazione di cluster locali. La transitivity è pari a $0.159$, la più alta tra i tre grafi, coerente con l'aumento del clustering. Il valore di _sigma_, pari a $11.703$, riflette una rete estremamente "small-world", mentre _omega_, con un valore di $-0.144$, indica una rete più decentralizzata rispetto al _Preferential Attachment_, con caratteristiche che tendono maggiormente a un reticolo. Questi risultati mostrano come il modello di _Random Walk_ favorisca una struttura più clusterizzata, decentralizzata e *small world*, incrementando significativamente il clustering e la transitivity, ma aumentando anche la distanza media.
 
-=== Osservazioni conclusive
+== Osservazioni conclusive
 
 Il modello di _Preferential Attachment_ sacrifica parte del clustering del grafo diretto, con una perdita di $0.02$ nel clustering coefficient rispetto al diretto, in favore di una struttura più espansa e di un equilibrio "small-world" quasi ottimale, come indicato da _omega_ vicino a $-0.01 9$. Il modello di _Random Walk_, invece, aumenta notevolmente il clustering, con un incremento di $0.3345$ rispetto al diretto, e la transitivity, favorendo la formazione di cluster locali. Questo si riflette anche in un _sigma_ più elevato rispetto al _Preferential Attachment_, ma a costo di una distanza media più alta e di un _omega_ più negativo. Entrambi i grafi indiretti mostrano distribuzioni _power law_, evidenziando la presenza di hub centrali con gradi elevati, coerenti con i rispettivi modelli generativi.
